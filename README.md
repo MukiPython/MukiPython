@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  muhammad523@proton.me
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: I'm 14 years old and 
 
 
